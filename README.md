@@ -8,6 +8,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unurgunite&theme=darkhub" alt="nekoderek" /></a> </p>
 
+---
+
 Skills: Ruby / Rails
 
 - 🔭 I'm currently working on **[Genius API library](https://github.com/unurgunite/genius-api)**.
@@ -16,7 +18,7 @@ Skills: Ruby / Rails
   
 - 💬 Ask me about **Ruby, Rails, lambda abstraction and math**.
 
-- 📫 How to reach me **example@noreply.com**
+- 📫 Ask me anything on my [issues page](https://github.com/unurgunite/unurgunite/issues).
 
 - ⚡ Fun fact **I am keen on with cooking and reading books. I am fond of reading science fiction books, as well as learning foreign languages such as Czech, English, Japanese and German. Not only that, I like to do music, because it helps to be inspired by life and to understand that you are a single whole of this universe.**
 
@@ -24,6 +26,8 @@ Skills: Ruby / Rails
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/unurgunite)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+---
 
 <h3 align="left" id="unurgunite-tech">Languages and Tools:</h3>
 <table>
@@ -177,7 +181,10 @@ Skills: Ruby / Rails
 <h3 align="left">Some statistics about me:</h3>
 
 <p float="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=unurgunite" alt="Profile views"/><br>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=unurgunite" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/unurgunite?color=green&logo=github" alt="Profile followers"/>
+  <img src="https://img.shields.io/badge/From%20my%20first%20%22Hello%2C%20World%22%20I've%20written%20more%20than-988k%20lines%20of%20code!-blue" alt="Lines"/>
+  <br>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unurgunite&theme=tokyonight" alt="Top Langs"/>
   <img src="https://github-readme-stats.vercel.app/api?username=unurgunite&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub stats"/>
@@ -185,3 +192,7 @@ Skills: Ruby / Rails
   <img src="https://metrics.lecoq.io/unurgunite" alt="GitHub metrics"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unurgunite&theme=tokyonight" alt="GitHub streak stats"/>
 </p>
+
+---
+
+<h1 align="center">I am proud of my life and I still have something to strive for!</h1>
