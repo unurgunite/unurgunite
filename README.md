@@ -34,5 +34,5 @@ Skills: Ruby / Rails
   <img src="https://activity-graph.herokuapp.com/graph?username=unurgunite" alt="GitHub Activity Graph"/>
   <img src="https://metrics.lecoq.io/unurgunite" alt="GitHub metrics"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unurgunite&theme=tokyonight" alt="GitHub streak stats"/>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=unurgunite" alt="Profile views"/>
 </p>
+<img src="https://visitor-badge.glitch.me/badge?page_id=unurgunite" alt="Profile views"/>
