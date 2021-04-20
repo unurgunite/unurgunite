@@ -190,9 +190,18 @@ Skills: Ruby / Rails
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unurgunite&theme=tokyonight" alt="Top Langs"/>
   <img src="https://github-readme-stats.vercel.app/api?username=unurgunite&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=unurgunite" alt="GitHub Activity Graph"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unurgunite&theme=tokyonight" alt="GitHub streak stats"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=unurgunite" alt="GitHub Activity Graph"/>
+  <img src="https://metrics.lecoq.io/unurgunite?template=classic&base.metadata=0&isocalendar=1&languages=1&introduction=1&stars=1&people=1&gists=1&followup=1&lines=1&activity=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=true&stars.limit=4&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=52&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FLondon" alt="GitHub metrics"/>
 </p>
+
+---
+
+<h3>Detailed statistics:</h3>
+<details>
+  <summary>Click to expand!</summary>
+	<img src="https://metrics.lecoq.io/unurgunite?template=classic&base.metadata=0&isocalendar=1&languages=1&introduction=1&stars=1&people=1&gists=1&followup=1&lines=1&activity=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=true&stars.limit=4&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=52&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FLondon" alt="GitHub metrics"/>
+</details>
 
 ---
 
