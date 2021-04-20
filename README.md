@@ -191,7 +191,6 @@ Skills: Ruby / Rails
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unurgunite&theme=tokyonight" alt="Top Langs"/>
   <img src="https://github-readme-stats.vercel.app/api?username=unurgunite&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub stats"/>
   <img src="https://activity-graph.herokuapp.com/graph?username=unurgunite" alt="GitHub Activity Graph"/>
-  <img src="https://metrics.lecoq.io/unurgunite" alt="GitHub metrics"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unurgunite&theme=tokyonight" alt="GitHub streak stats"/>
 </p>
 
