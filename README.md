@@ -25,14 +25,163 @@ Skills: Ruby / Rails
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://offeescript.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<h3 align="left" id="unurgunite-tech">Languages and Tools:</h3>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#unurgunite-tech">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="#unurgunite-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#unurgunite-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#unurgunite-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" width="48" height="48" alt="CoffeeScript" />
+      </a>
+      <br>CoffeeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#unurgunite-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#unurgunite-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#unurgunite-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="48" height="48" alt="Vue" />
+      </a>
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+      <a href="#unurgunite-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#unurgunite-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="48" height="48" alt="Haskell" />
+      </a>
+      <br>Haskell
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#unurgunite-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#unurgunite-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="48" height="48" alt="Ruby on Rails" />
+      </a>
+      <br>Ruby on Rails
+    </td>
+    <td align="center"  width="96">
+      <a href="#unurgunite-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="48" height="48" alt="Ruby" />
+      </a>
+      <br>Ruby
+    </td>
+    <td align="center"  width="96">
+      <a href="#unurgunite-tech">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#unurgunite-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center"  width="96">
+      <a href="#unurgunite-tech">
+        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#unurgunite-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+    <td align="center" width="96">
+      <a href="#unurgunite-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#unurgunite-tech" >
+        <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" width="48" height="48" alt="Vagrant" />
+      </a>
+      <br>Vagrant
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#unurgunite-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
+     </td>
+    <td align="center" width="96">
+      <a href="#unurgunite-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+     </td>
+     <td align="center" width="96">
+      <a href="#unurgunite-tech" >
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="sqlite" />
+      </a>
+      <br>SQlite
+     </td>
+    <td align="center" width="96">
+      <a href="#unurgunite-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="48" height="48" alt="nginx" />
+      </a>
+      <br>nginx
+     </td>
+    <td align="center" width="96">
+      <a href="#unurgunite-tech" >
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linux" />
+      </a>
+      <br>Linux
+    </td>
+</table>
+
+---
+
+<h3 align="left">Some statistics about me:</h3>
 
 <p float="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=unurgunite" alt="Profile views"/><br>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unurgunite&theme=tokyonight" alt="Top Langs"/>
   <img src="https://github-readme-stats.vercel.app/api?username=unurgunite&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub stats"/>
   <img src="https://activity-graph.herokuapp.com/graph?username=unurgunite" alt="GitHub Activity Graph"/>
   <img src="https://metrics.lecoq.io/unurgunite" alt="GitHub metrics"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unurgunite&theme=tokyonight" alt="GitHub streak stats"/>
 </p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=unurgunite" alt="Profile views"/>
