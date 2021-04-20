@@ -188,9 +188,9 @@ Skills: Ruby / Rails
   <img src="https://img.shields.io/badge/From%20my%20first%20%22Hello%2C%20World%22%20I've%20written%20more%20than-988k%20lines%20of%20code!-blue" alt="Lines"/>
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unurgunite&theme=tokyonight" alt="Top Langs"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=unurgunite&show_icons=true&count_private=true&theme=tokyonight&hide_rank=1" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unurgunite&theme=tokyonight" alt="GitHub streak stats" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unurgunite&theme=tokyonight" alt="Top Langs"/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=unurgunite&show_icons=true&count_private=true&theme=tokyonight&hide_rank=1" alt="GitHub stats" align="left"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unurgunite&theme=tokyonight" alt="GitHub streak stats" />
   <img src="https://activity-graph.herokuapp.com/graph?username=unurgunite" alt="GitHub Activity Graph"/>
 </p>
 
