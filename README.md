@@ -82,10 +82,10 @@ Skills: Ruby / Rails
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#unurgunite-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="48" height="48" alt="Haskell" />
+      <a href="#unurgunite-tech" >
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linux" />
       </a>
-      <br>Haskell
+      <br>Linux
     </td>
   </tr>
   <tr>
@@ -169,12 +169,6 @@ Skills: Ruby / Rails
       </a>
       <br>nginx
      </td>
-    <td align="center" width="96">
-      <a href="#unurgunite-tech" >
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linux" />
-      </a>
-      <br>Linux
-    </td>
 </table>
 
 ---
