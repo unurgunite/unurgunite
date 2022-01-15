@@ -14,7 +14,7 @@
 
 Skills: Ruby / Rails
 
-- 🔭 I'm currently working on **[Genius API library](https://github.com/unurgunite/genius-api)**.
+- 🔭 I'm currently working on **[Git library to document changes to the project](https://github.com/unurgunite/changelogger)**. So I'm search for skillable Ruby programmers.
 
 - 🌱 I'm currently learning **Lambda calculus, Type Theory and Compiler Theory. In addition, I develop in languages such as C, C++ and Haskell. Regardless, I also enjoy spending time studying the std lib of my favourite language, Ruby**.
   
