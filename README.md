@@ -16,9 +16,9 @@ Skills: Ruby / Rails
 
 - 🔭 I'm currently working on **[Git library to document changes to the project](https://github.com/unurgunite/changelogger)**. So I'm search for skillable Ruby programmers.
 
-- 🌱 I'm currently learning **Lambda calculus, Type Theory and Compiler Theory. In addition, I develop in languages such as C, C++ and Haskell. Regardless, I also enjoy spending time studying the std lib of my favourite language, Ruby**.
+- 🌱 I'm currently learning **Type and Compiler Theory. In addition, I develop in languages such as Objective-C (C), C++ and Haskell. Regardless, I also enjoy spending time studying the std lib of my favourite language, Ruby**.
   
-- 💬 Ask me about **Ruby, Rails, lambda abstraction and math**.
+- 💬 Ask me about **anything you want**.
 
 - 📫 Ask me anything on my [issues page](https://github.com/unurgunite/unurgunite/issues).
 
@@ -205,10 +205,6 @@ Skills: Ruby / Rails
 
 <p>
   <ul style="list-style-type:none">
-	  <li lang="ja"><q>私は自分の人生を誇りに思っていますが、まだ努力すべきことがあります。</q></li>
-	  <li><i lang="ja-latn"><q>Watashi wa jibun no jinsei o hokori ni omotte imasuga, mada doryoku subeki koto ga arimasu</q></i></li>
-    <li><i lang="de"><q>Ich bin stolz auf mein Leben und habe noch etwas anzustreben!</q></i></li>
-    <li><i lang="cs"><q>Jsem hrdý na svůj život a stále se mám o co snažit!</q></i></li>
-	  <li><i lang="en"><q>I am proud of my life and I still have something to strive for!</q></i></li>
+	  
   </ul>
 </p>
