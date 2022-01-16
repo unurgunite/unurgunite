@@ -196,9 +196,3 @@ Skills: Ruby / Rails
 </details>
 
 ---
-
-<p>
-  <ul style="list-style-type:none">
-	  
-  </ul>
-</p>
