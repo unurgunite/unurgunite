@@ -15,7 +15,7 @@
 Skills: Ruby / Rails
 
 - 🔭 I'm currently working
-  on **[Git library to document changes to the project](https://github.com/unurgunite/changelogger)**. So I'm search for
+  on **[Git library to document changes to the project](https://github.com/unurgunite/changelogger)**. So I search for
   skillable Ruby programmers.
 
 - 🌱 I'm currently learning **Type and Compiler Theory. In addition, I develop in languages such as Objective-C (C), C++
