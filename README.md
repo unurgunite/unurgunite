@@ -8,7 +8,7 @@
   <i><b>Unurgunite</b> – Sigma Canis Majoris is a supergiant star. This is a type of star that is in the late stages of its evolution, having consumed the hydrogen at its core and ballooned out to 399 times the Sun's radius. The star is identified with the nganurganity [ˈŋanuɾˌɡ̊aniɟ̊] "Jacky lizard" in the culture of the Boorong, a clan of the indigenous Maligundidj people of northwestern Victoria in Australia, who saw it as an ancestral figure who fights the moon, flanked by his wives (the stars Delta and Epsilon Canis Majoris)</i><br/><a href="https://en.wikipedia.org/wiki/Sigma_Canis_Majoris">wiki</a>
 </p><br/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unurgunite&theme=darkhub" alt="nekoderek" /></a> </p>
+<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unurgunite&theme=darkhub" alt="unurgunite" /></a> </p>-->
 
 ---
 
