@@ -1,1 +1,1 @@
-![SVG](./sample.svg)
+![README](./readme.png)
